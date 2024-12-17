@@ -4,4 +4,4 @@ class Pizza():
     def calculate_price(self):
         pass
     def remove_topping(self, pizza_class):
-        return self
+        return self   
